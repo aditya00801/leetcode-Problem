@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/aditya00801/leetcode-Problem/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/aditya00801/leetcode-Problem/tree/master/0004-median-of-two-sorted-arrays) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/aditya00801/leetcode-Problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0051-n-queens](https://github.com/aditya00801/leetcode-Problem/tree/master/0051-n-queens) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aditya00801/leetcode-Problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Backtracking
@@ -30,5 +31,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/aditya00801/leetcode-Problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aditya00801/leetcode-Problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
