@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/aditya00801/leetcode-Problem/tree/master/0051-n-queens) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aditya00801/leetcode-Problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aditya00801/leetcode-Problem/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/aditya00801/leetcode-Problem/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -26,11 +27,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aditya00801/leetcode-Problem/tree/master/0004-median-of-two-sorted-arrays) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aditya00801/leetcode-Problem/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/aditya00801/leetcode-Problem/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/aditya00801/leetcode-Problem/tree/master/0001-two-sum) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aditya00801/leetcode-Problem/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/aditya00801/leetcode-Problem/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -54,10 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aditya00801/leetcode-Problem/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/aditya00801/leetcode-Problem/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aditya00801/leetcode-Problem/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/aditya00801/leetcode-Problem/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -67,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [3699-number-of-zigzag-arrays-i](https://github.com/aditya00801/leetcode-Problem/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aditya00801/leetcode-Problem/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/aditya00801/leetcode-Problem/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
