@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/aditya00801/leetcode-Problem/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aditya00801/leetcode-Problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0051-n-queens](https://github.com/aditya00801/leetcode-Problem/tree/master/0051-n-queens) |
+| [0056-merge-intervals](https://github.com/aditya00801/leetcode-Problem/tree/main/0056-merge-intervals/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aditya00801/leetcode-Problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aditya00801/leetcode-Problem/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aditya00801/leetcode-Problem/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0056-merge-intervals](https://github.com/aditya00801/leetcode-Problem/tree/main/0056-merge-intervals/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aditya00801/leetcode-Problem/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -161,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/aditya00801/leetcode-Problem/tree/main/0146-lru-cache/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/aditya00801/leetcode-Problem/tree/main/0056-merge-intervals/) | Medium |
 <!---LeetCode Topics End-->
