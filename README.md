@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-number-of-visible-people-in-a-queue](https://github.com/aditya00801/leetcode-Problem/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aditya00801/leetcode-Problem/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/aditya00801/leetcode-Problem/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2672-number-of-adjacent-elements-with-the-same-color](https://github.com/aditya00801/leetcode-Problem/tree/main/2672-number-of-adjacent-elements-with-the-same-color/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aditya00801/leetcode-Problem/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aditya00801/leetcode-Problem/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/aditya00801/leetcode-Problem/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
