@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1757-recyclable-and-low-fat-products](https://github.com/aditya00801/leetcode-Problem/tree/master/1757-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/aditya00801/leetcode-Problem/tree/main/1934-confirmation-rate/) | Medium |
 | [1978-employees-whose-manager-left-the-company](https://github.com/aditya00801/leetcode-Problem/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/aditya00801/leetcode-Problem/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
