@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aditya00801/leetcode-Problem/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aditya00801/leetcode-Problem/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/aditya00801/leetcode-Problem/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/aditya00801/leetcode-Problem/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3620-network-recovery-pathways](https://github.com/aditya00801/leetcode-Problem/tree/master/3620-network-recovery-pathways) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/aditya00801/leetcode-Problem/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aditya00801/leetcode-Problem/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aditya00801/leetcode-Problem/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/aditya00801/leetcode-Problem/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aditya00801/leetcode-Problem/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/aditya00801/leetcode-Problem/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aditya00801/leetcode-Problem/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/aditya00801/leetcode-Problem/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Two Pointers
