@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aditya00801/leetcode-Problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/aditya00801/leetcode-Problem/tree/main/0198-house-robber/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/aditya00801/leetcode-Problem/tree/main/0485-max-consecutive-ones/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/aditya00801/leetcode-Problem/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1470-shuffle-the-array](https://github.com/aditya00801/leetcode-Problem/tree/main/1470-shuffle-the-array/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aditya00801/leetcode-Problem/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1929-concatenation-of-array](https://github.com/aditya00801/leetcode-Problem/tree/main/1929-concatenation-of-array/) | Easy |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/aditya00801/leetcode-Problem/tree/master/0001-two-sum) |
 | [0146-lru-cache](https://github.com/aditya00801/leetcode-Problem/tree/main/0146-lru-cache/) | Medium |
 | [0242-valid-anagram](https://github.com/aditya00801/leetcode-Problem/tree/main/0242-valid-anagram/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/aditya00801/leetcode-Problem/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/aditya00801/leetcode-Problem/tree/main/2791-count-paths-that-can-form-a-palindrome-in-a-tree/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aditya00801/leetcode-Problem/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/aditya00801/leetcode-Problem/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1386-cinema-seat-allocation](https://github.com/aditya00801/leetcode-Problem/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aditya00801/leetcode-Problem/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2029-stone-game-ix](https://github.com/aditya00801/leetcode-Problem/tree/main/2029-stone-game-ix/) | Medium |
 ## Sorting
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1386-cinema-seat-allocation](https://github.com/aditya00801/leetcode-Problem/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/aditya00801/leetcode-Problem/tree/main/2791-count-paths-that-can-form-a-palindrome-in-a-tree/) | Hard |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/aditya00801/leetcode-Problem/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Tree
