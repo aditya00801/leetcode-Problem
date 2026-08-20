@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aditya00801/leetcode-Problem/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aditya00801/leetcode-Problem/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/aditya00801/leetcode-Problem/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/aditya00801/leetcode-Problem/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/aditya00801/leetcode-Problem/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3620-network-recovery-pathways](https://github.com/aditya00801/leetcode-Problem/tree/master/3620-network-recovery-pathways) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/aditya00801/leetcode-Problem/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1929-concatenation-of-array](https://github.com/aditya00801/leetcode-Problem/tree/main/1929-concatenation-of-array/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/aditya00801/leetcode-Problem/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
