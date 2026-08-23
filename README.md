@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0152-maximum-product-subarray](https://github.com/aditya00801/leetcode-Problem/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aditya00801/leetcode-Problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/aditya00801/leetcode-Problem/tree/main/0198-house-robber/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/aditya00801/leetcode-Problem/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/aditya00801/leetcode-Problem/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/aditya00801/leetcode-Problem/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1470-shuffle-the-array](https://github.com/aditya00801/leetcode-Problem/tree/main/1470-shuffle-the-array/) | Easy |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/aditya00801/leetcode-Problem/tree/main/0238-product-of-array-except-self/) | Medium |
 | [3699-number-of-zigzag-arrays-i](https://github.com/aditya00801/leetcode-Problem/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aditya00801/leetcode-Problem/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/aditya00801/leetcode-Problem/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
