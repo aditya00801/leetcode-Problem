@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aditya00801/leetcode-Problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/aditya00801/leetcode-Problem/tree/main/0198-house-robber/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/aditya00801/leetcode-Problem/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0380-insert-delete-getrandom-o1](https://github.com/aditya00801/leetcode-Problem/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/aditya00801/leetcode-Problem/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/aditya00801/leetcode-Problem/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/aditya00801/leetcode-Problem/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/aditya00801/leetcode-Problem/tree/master/0001-two-sum) |
 | [0146-lru-cache](https://github.com/aditya00801/leetcode-Problem/tree/main/0146-lru-cache/) | Medium |
 | [0242-valid-anagram](https://github.com/aditya00801/leetcode-Problem/tree/main/0242-valid-anagram/) | Easy |
+| [0380-insert-delete-getrandom-o1](https://github.com/aditya00801/leetcode-Problem/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/aditya00801/leetcode-Problem/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/aditya00801/leetcode-Problem/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/aditya00801/leetcode-Problem/tree/main/2791-count-paths-that-can-form-a-palindrome-in-a-tree/) | Hard |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/aditya00801/leetcode-Problem/tree/main/0146-lru-cache/) | Medium |
+| [0380-insert-delete-getrandom-o1](https://github.com/aditya00801/leetcode-Problem/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -277,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/aditya00801/leetcode-Problem/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [1872-stone-game-viii](https://github.com/aditya00801/leetcode-Problem/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/aditya00801/leetcode-Problem/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/aditya00801/leetcode-Problem/tree/main/2029-stone-game-ix/) | Medium |
@@ -304,4 +308,8 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/aditya00801/leetcode-Problem/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Randomized
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/aditya00801/leetcode-Problem/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 <!---LeetCode Topics End-->
