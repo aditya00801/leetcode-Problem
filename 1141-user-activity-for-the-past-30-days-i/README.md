@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/user-activity-for-the-past-30-days-i">1141. User Activity for the Past 30 Days I</a></h2><h3>Easy</h3><hr><p>Table: <code>Activity</code></p>
+<h2><a href="https://leetcode.com/problems/product-sales-analysis-iii/description/?envType=study-plan-v2&envId=top-sql-50">1141. User Activity for the Past 30 Days I</a></h2><h3>Easy</h3><hr><p>Table: <code>Activity</code></p>
 
 <pre>
 +---------------+---------+
