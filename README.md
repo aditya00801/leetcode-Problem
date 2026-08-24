@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1386-cinema-seat-allocation](https://github.com/aditya00801/leetcode-Problem/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1470-shuffle-the-array](https://github.com/aditya00801/leetcode-Problem/tree/main/1470-shuffle-the-array/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aditya00801/leetcode-Problem/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [1872-stone-game-viii](https://github.com/aditya00801/leetcode-Problem/tree/main/1872-stone-game-viii/) | Hard |
 | [1929-concatenation-of-array](https://github.com/aditya00801/leetcode-Problem/tree/main/1929-concatenation-of-array/) | Easy |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/aditya00801/leetcode-Problem/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aditya00801/leetcode-Problem/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/aditya00801/leetcode-Problem/tree/main/0238-product-of-array-except-self/) | Medium |
+| [1872-stone-game-viii](https://github.com/aditya00801/leetcode-Problem/tree/main/1872-stone-game-viii/) | Hard |
 | [3699-number-of-zigzag-arrays-i](https://github.com/aditya00801/leetcode-Problem/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aditya00801/leetcode-Problem/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/aditya00801/leetcode-Problem/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aditya00801/leetcode-Problem/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/aditya00801/leetcode-Problem/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/aditya00801/leetcode-Problem/tree/main/0198-house-robber/) | Medium |
+| [1872-stone-game-viii](https://github.com/aditya00801/leetcode-Problem/tree/main/1872-stone-game-viii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/aditya00801/leetcode-Problem/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/aditya00801/leetcode-Problem/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 ## Enumeration
@@ -264,15 +267,18 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1872-stone-game-viii](https://github.com/aditya00801/leetcode-Problem/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/aditya00801/leetcode-Problem/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/aditya00801/leetcode-Problem/tree/main/2029-stone-game-ix/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1872-stone-game-viii](https://github.com/aditya00801/leetcode-Problem/tree/main/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/aditya00801/leetcode-Problem/tree/main/2029-stone-game-ix/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1872-stone-game-viii](https://github.com/aditya00801/leetcode-Problem/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/aditya00801/leetcode-Problem/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/aditya00801/leetcode-Problem/tree/main/2029-stone-game-ix/) | Medium |
 ## Nim Game
@@ -282,5 +288,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1872-stone-game-viii](https://github.com/aditya00801/leetcode-Problem/tree/main/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/aditya00801/leetcode-Problem/tree/main/2029-stone-game-ix/) | Medium |
 <!---LeetCode Topics End-->
