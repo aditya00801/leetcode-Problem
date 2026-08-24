@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0152-maximum-product-subarray](https://github.com/aditya00801/leetcode-Problem/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/aditya00801/leetcode-Problem/tree/main/0198-house-robber/) | Medium |
 | [1872-stone-game-viii](https://github.com/aditya00801/leetcode-Problem/tree/main/1872-stone-game-viii/) | Hard |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/aditya00801/leetcode-Problem/tree/main/2571-minimum-operations-to-reduce-an-integer-to-0/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/aditya00801/leetcode-Problem/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/aditya00801/leetcode-Problem/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 ## Enumeration
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aditya00801/leetcode-Problem/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1927-sum-game](https://github.com/aditya00801/leetcode-Problem/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/aditya00801/leetcode-Problem/tree/main/2029-stone-game-ix/) | Medium |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/aditya00801/leetcode-Problem/tree/main/2571-minimum-operations-to-reduce-an-integer-to-0/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1386-cinema-seat-allocation](https://github.com/aditya00801/leetcode-Problem/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/aditya00801/leetcode-Problem/tree/main/2571-minimum-operations-to-reduce-an-integer-to-0/) | Medium |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/aditya00801/leetcode-Problem/tree/main/2791-count-paths-that-can-form-a-palindrome-in-a-tree/) | Hard |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/aditya00801/leetcode-Problem/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Tree
