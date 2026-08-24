@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aditya00801/leetcode-Problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aditya00801/leetcode-Problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1768-merge-strings-alternately](https://github.com/aditya00801/leetcode-Problem/tree/master/1768-merge-strings-alternately) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aditya00801/leetcode-Problem/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1927-sum-game](https://github.com/aditya00801/leetcode-Problem/tree/main/1927-sum-game/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aditya00801/leetcode-Problem/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/aditya00801/leetcode-Problem/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aditya00801/leetcode-Problem/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aditya00801/leetcode-Problem/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Segment Tree
 | Problem Name | Difficulty |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0152-maximum-product-subarray](https://github.com/aditya00801/leetcode-Problem/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/aditya00801/leetcode-Problem/tree/main/0198-house-robber/) | Medium |
 | [1872-stone-game-viii](https://github.com/aditya00801/leetcode-Problem/tree/main/1872-stone-game-viii/) | Hard |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aditya00801/leetcode-Problem/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/aditya00801/leetcode-Problem/tree/main/2571-minimum-operations-to-reduce-an-integer-to-0/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/aditya00801/leetcode-Problem/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/aditya00801/leetcode-Problem/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aditya00801/leetcode-Problem/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1927-sum-game](https://github.com/aditya00801/leetcode-Problem/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/aditya00801/leetcode-Problem/tree/main/2029-stone-game-ix/) | Medium |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aditya00801/leetcode-Problem/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/aditya00801/leetcode-Problem/tree/main/2571-minimum-operations-to-reduce-an-integer-to-0/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
