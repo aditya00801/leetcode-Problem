@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aditya00801/leetcode-Problem/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/aditya00801/leetcode-Problem/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0761-special-binary-string](https://github.com/aditya00801/leetcode-Problem/tree/main/0761-special-binary-string/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aditya00801/leetcode-Problem/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/aditya00801/leetcode-Problem/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Hash Table
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0020-valid-parentheses](https://github.com/aditya00801/leetcode-Problem/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/aditya00801/leetcode-Problem/tree/main/0022-generate-parentheses/) | Medium |
 | [0242-valid-anagram](https://github.com/aditya00801/leetcode-Problem/tree/main/0242-valid-anagram/) | Easy |
+| [0761-special-binary-string](https://github.com/aditya00801/leetcode-Problem/tree/main/0761-special-binary-string/) | Hard |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/aditya00801/leetcode-Problem/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/aditya00801/leetcode-Problem/tree/master/1768-merge-strings-alternately) |
 | [1927-sum-game](https://github.com/aditya00801/leetcode-Problem/tree/main/1927-sum-game/) | Medium |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/aditya00801/leetcode-Problem/tree/main/0056-merge-intervals/) | Medium |
 | [0242-valid-anagram](https://github.com/aditya00801/leetcode-Problem/tree/main/0242-valid-anagram/) | Easy |
+| [0761-special-binary-string](https://github.com/aditya00801/leetcode-Problem/tree/main/0761-special-binary-string/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aditya00801/leetcode-Problem/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
