@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aditya00801/leetcode-Problem/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/aditya00801/leetcode-Problem/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/aditya00801/leetcode-Problem/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/aditya00801/leetcode-Problem/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aditya00801/leetcode-Problem/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/aditya00801/leetcode-Problem/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Two Pointers
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aditya00801/leetcode-Problem/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/aditya00801/leetcode-Problem/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aditya00801/leetcode-Problem/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/aditya00801/leetcode-Problem/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2029-stone-game-ix](https://github.com/aditya00801/leetcode-Problem/tree/main/2029-stone-game-ix/) | Medium |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/aditya00801/leetcode-Problem/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aditya00801/leetcode-Problem/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/aditya00801/leetcode-Problem/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/aditya00801/leetcode-Problem/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -192,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2029-stone-game-ix](https://github.com/aditya00801/leetcode-Problem/tree/main/2029-stone-game-ix/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aditya00801/leetcode-Problem/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/aditya00801/leetcode-Problem/tree/main/2571-minimum-operations-to-reduce-an-integer-to-0/) | Medium |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/aditya00801/leetcode-Problem/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
