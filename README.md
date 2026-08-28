@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/aditya00801/leetcode-Problem/tree/main/0242-valid-anagram/) | Easy |
 | [0761-special-binary-string](https://github.com/aditya00801/leetcode-Problem/tree/main/0761-special-binary-string/) | Hard |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/aditya00801/leetcode-Problem/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/aditya00801/leetcode-Problem/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/aditya00801/leetcode-Problem/tree/master/1768-merge-strings-alternately) |
 | [1927-sum-game](https://github.com/aditya00801/leetcode-Problem/tree/main/1927-sum-game/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aditya00801/leetcode-Problem/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/aditya00801/leetcode-Problem/tree/main/0020-valid-parentheses/) | Easy |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/aditya00801/leetcode-Problem/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/aditya00801/leetcode-Problem/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/aditya00801/leetcode-Problem/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
