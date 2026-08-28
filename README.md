@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aditya00801/leetcode-Problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1768-merge-strings-alternately](https://github.com/aditya00801/leetcode-Problem/tree/master/1768-merge-strings-alternately) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aditya00801/leetcode-Problem/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/aditya00801/leetcode-Problem/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/aditya00801/leetcode-Problem/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aditya00801/leetcode-Problem/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/aditya00801/leetcode-Problem/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/aditya00801/leetcode-Problem/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/aditya00801/leetcode-Problem/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/aditya00801/leetcode-Problem/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/aditya00801/leetcode-Problem/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
