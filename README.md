@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/aditya00801/leetcode-Problem/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/aditya00801/leetcode-Problem/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aditya00801/leetcode-Problem/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/aditya00801/leetcode-Problem/tree/main/0042-trapping-rain-water/) | Hard |
 | [0051-n-queens](https://github.com/aditya00801/leetcode-Problem/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/aditya00801/leetcode-Problem/tree/main/0056-merge-intervals/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aditya00801/leetcode-Problem/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aditya00801/leetcode-Problem/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/aditya00801/leetcode-Problem/tree/main/0042-trapping-rain-water/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aditya00801/leetcode-Problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1768-merge-strings-alternately](https://github.com/aditya00801/leetcode-Problem/tree/master/1768-merge-strings-alternately) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aditya00801/leetcode-Problem/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/aditya00801/leetcode-Problem/tree/main/0022-generate-parentheses/) | Medium |
+| [0042-trapping-rain-water](https://github.com/aditya00801/leetcode-Problem/tree/main/0042-trapping-rain-water/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aditya00801/leetcode-Problem/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/aditya00801/leetcode-Problem/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/aditya00801/leetcode-Problem/tree/main/0198-house-robber/) | Medium |
@@ -297,12 +300,14 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/aditya00801/leetcode-Problem/tree/main/0020-valid-parentheses/) | Easy |
+| [0042-trapping-rain-water](https://github.com/aditya00801/leetcode-Problem/tree/main/0042-trapping-rain-water/) | Hard |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/aditya00801/leetcode-Problem/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/aditya00801/leetcode-Problem/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/aditya00801/leetcode-Problem/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/aditya00801/leetcode-Problem/tree/main/0042-trapping-rain-water/) | Hard |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/aditya00801/leetcode-Problem/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
