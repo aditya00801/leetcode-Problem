@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aditya00801/leetcode-Problem/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1998-gcd-sort-of-an-array](https://github.com/aditya00801/leetcode-Problem/tree/main/1998-gcd-sort-of-an-array/) | Hard |
 | [2029-stone-game-ix](https://github.com/aditya00801/leetcode-Problem/tree/main/2029-stone-game-ix/) | Medium |
+| [2149-rearrange-array-elements-by-sign](https://github.com/aditya00801/leetcode-Problem/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/aditya00801/leetcode-Problem/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2672-number-of-adjacent-elements-with-the-same-color](https://github.com/aditya00801/leetcode-Problem/tree/main/2672-number-of-adjacent-elements-with-the-same-color/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aditya00801/leetcode-Problem/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/aditya00801/leetcode-Problem/tree/main/0042-trapping-rain-water/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aditya00801/leetcode-Problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1768-merge-strings-alternately](https://github.com/aditya00801/leetcode-Problem/tree/master/1768-merge-strings-alternately) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/aditya00801/leetcode-Problem/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aditya00801/leetcode-Problem/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/aditya00801/leetcode-Problem/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Database
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1929-concatenation-of-array](https://github.com/aditya00801/leetcode-Problem/tree/main/1929-concatenation-of-array/) | Easy |
+| [2149-rearrange-array-elements-by-sign](https://github.com/aditya00801/leetcode-Problem/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aditya00801/leetcode-Problem/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Math
 | Problem Name | Difficulty |
