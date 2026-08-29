@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1872-stone-game-viii](https://github.com/aditya00801/leetcode-Problem/tree/main/1872-stone-game-viii/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aditya00801/leetcode-Problem/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/aditya00801/leetcode-Problem/tree/main/2571-minimum-operations-to-reduce-an-integer-to-0/) | Medium |
+| [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/aditya00801/leetcode-Problem/tree/main/2858-minimum-edge-reversals-so-every-node-is-reachable/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/aditya00801/leetcode-Problem/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/aditya00801/leetcode-Problem/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 ## Enumeration
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0127-word-ladder](https://github.com/aditya00801/leetcode-Problem/tree/main/0127-word-ladder/) | Hard |
 | [0207-course-schedule](https://github.com/aditya00801/leetcode-Problem/tree/main/0207-course-schedule/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aditya00801/leetcode-Problem/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/aditya00801/leetcode-Problem/tree/main/2858-minimum-edge-reversals-so-every-node-is-reachable/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/aditya00801/leetcode-Problem/tree/main/0207-course-schedule/) | Medium |
+| [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/aditya00801/leetcode-Problem/tree/main/2858-minimum-edge-reversals-so-every-node-is-reachable/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/aditya00801/leetcode-Problem/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 | Problem Name | Difficulty |
@@ -298,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0207-course-schedule](https://github.com/aditya00801/leetcode-Problem/tree/main/0207-course-schedule/) | Medium |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/aditya00801/leetcode-Problem/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/aditya00801/leetcode-Problem/tree/main/2791-count-paths-that-can-form-a-palindrome-in-a-tree/) | Hard |
+| [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/aditya00801/leetcode-Problem/tree/main/2858-minimum-edge-reversals-so-every-node-is-reachable/) | Hard |
 ## Directed Acyclic Graph
 | Problem Name | Difficulty |
 | ------- | ------- |
