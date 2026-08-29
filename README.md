@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0146-lru-cache](https://github.com/aditya00801/leetcode-Problem/tree/main/0146-lru-cache/) | Medium |
 | [0242-valid-anagram](https://github.com/aditya00801/leetcode-Problem/tree/main/0242-valid-anagram/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/aditya00801/leetcode-Problem/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [0460-lfu-cache](https://github.com/aditya00801/leetcode-Problem/tree/main/0460-lfu-cache/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/aditya00801/leetcode-Problem/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/aditya00801/leetcode-Problem/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/aditya00801/leetcode-Problem/tree/main/2791-count-paths-that-can-form-a-palindrome-in-a-tree/) | Hard |
@@ -272,15 +273,18 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/aditya00801/leetcode-Problem/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0146-lru-cache](https://github.com/aditya00801/leetcode-Problem/tree/main/0146-lru-cache/) | Medium |
+| [0460-lfu-cache](https://github.com/aditya00801/leetcode-Problem/tree/main/0460-lfu-cache/) | Hard |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/aditya00801/leetcode-Problem/tree/main/0146-lru-cache/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/aditya00801/leetcode-Problem/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [0460-lfu-cache](https://github.com/aditya00801/leetcode-Problem/tree/main/0460-lfu-cache/) | Hard |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/aditya00801/leetcode-Problem/tree/main/0146-lru-cache/) | Medium |
+| [0460-lfu-cache](https://github.com/aditya00801/leetcode-Problem/tree/main/0460-lfu-cache/) | Hard |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
