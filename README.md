@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aditya00801/leetcode-Problem/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1998-gcd-sort-of-an-array](https://github.com/aditya00801/leetcode-Problem/tree/main/1998-gcd-sort-of-an-array/) | Hard |
 | [2029-stone-game-ix](https://github.com/aditya00801/leetcode-Problem/tree/main/2029-stone-game-ix/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/aditya00801/leetcode-Problem/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aditya00801/leetcode-Problem/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/aditya00801/leetcode-Problem/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2488-count-subarrays-with-median-k](https://github.com/aditya00801/leetcode-Problem/tree/main/2488-count-subarrays-with-median-k/) | Hard |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aditya00801/leetcode-Problem/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1927-sum-game](https://github.com/aditya00801/leetcode-Problem/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/aditya00801/leetcode-Problem/tree/main/2029-stone-game-ix/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/aditya00801/leetcode-Problem/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aditya00801/leetcode-Problem/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/aditya00801/leetcode-Problem/tree/main/2571-minimum-operations-to-reduce-an-integer-to-0/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/aditya00801/leetcode-Problem/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
