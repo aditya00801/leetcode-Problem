@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0238-product-of-array-except-self](https://github.com/aditya00801/leetcode-Problem/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/aditya00801/leetcode-Problem/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1872-stone-game-viii](https://github.com/aditya00801/leetcode-Problem/tree/main/1872-stone-game-viii/) | Hard |
+| [2485-find-the-pivot-integer](https://github.com/aditya00801/leetcode-Problem/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2488-count-subarrays-with-median-k](https://github.com/aditya00801/leetcode-Problem/tree/main/2488-count-subarrays-with-median-k/) | Hard |
 | [3699-number-of-zigzag-arrays-i](https://github.com/aditya00801/leetcode-Problem/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aditya00801/leetcode-Problem/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1927-sum-game](https://github.com/aditya00801/leetcode-Problem/tree/main/1927-sum-game/) | Medium |
 | [1998-gcd-sort-of-an-array](https://github.com/aditya00801/leetcode-Problem/tree/main/1998-gcd-sort-of-an-array/) | Hard |
 | [2029-stone-game-ix](https://github.com/aditya00801/leetcode-Problem/tree/main/2029-stone-game-ix/) | Medium |
+| [2485-find-the-pivot-integer](https://github.com/aditya00801/leetcode-Problem/tree/main/2485-find-the-pivot-integer/) | Easy |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
