@@ -361,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/aditya00801/leetcode-Problem/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/aditya00801/leetcode-Problem/tree/main/0009-palindrome-number/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/aditya00801/leetcode-Problem/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [1872-stone-game-viii](https://github.com/aditya00801/leetcode-Problem/tree/main/1872-stone-game-viii/) | Hard |
