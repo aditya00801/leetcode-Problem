@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0023-merge-k-sorted-lists](https://github.com/aditya00801/leetcode-Problem/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0146-lru-cache](https://github.com/aditya00801/leetcode-Problem/tree/main/0146-lru-cache/) | Medium |
 | [0460-lfu-cache](https://github.com/aditya00801/leetcode-Problem/tree/main/0460-lfu-cache/) | Hard |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/aditya00801/leetcode-Problem/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
