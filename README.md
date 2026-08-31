@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1386-cinema-seat-allocation](https://github.com/aditya00801/leetcode-Problem/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/aditya00801/leetcode-Problem/tree/main/1458-max-dot-product-of-two-subsequences/) | Hard |
 | [1470-shuffle-the-array](https://github.com/aditya00801/leetcode-Problem/tree/main/1470-shuffle-the-array/) | Easy |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/aditya00801/leetcode-Problem/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aditya00801/leetcode-Problem/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1872-stone-game-viii](https://github.com/aditya00801/leetcode-Problem/tree/main/1872-stone-game-viii/) | Hard |
 | [1929-concatenation-of-array](https://github.com/aditya00801/leetcode-Problem/tree/main/1929-concatenation-of-array/) | Easy |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0056-merge-intervals](https://github.com/aditya00801/leetcode-Problem/tree/main/0056-merge-intervals/) | Medium |
 | [0242-valid-anagram](https://github.com/aditya00801/leetcode-Problem/tree/main/0242-valid-anagram/) | Easy |
 | [0761-special-binary-string](https://github.com/aditya00801/leetcode-Problem/tree/main/0761-special-binary-string/) | Hard |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/aditya00801/leetcode-Problem/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aditya00801/leetcode-Problem/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1998-gcd-sort-of-an-array](https://github.com/aditya00801/leetcode-Problem/tree/main/1998-gcd-sort-of-an-array/) | Hard |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/aditya00801/leetcode-Problem/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
