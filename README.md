@@ -371,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0009-palindrome-number](https://github.com/aditya00801/leetcode-Problem/tree/main/0009-palindrome-number/) | Easy |
 | [0263-ugly-number](https://github.com/aditya00801/leetcode-Problem/tree/main/0263-ugly-number/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/aditya00801/leetcode-Problem/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [0728-self-dividing-numbers](https://github.com/aditya00801/leetcode-Problem/tree/main/0728-self-dividing-numbers/) | Easy |
 | [1015-smallest-integer-divisible-by-k](https://github.com/aditya00801/leetcode-Problem/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1872-stone-game-viii](https://github.com/aditya00801/leetcode-Problem/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/aditya00801/leetcode-Problem/tree/main/1927-sum-game/) | Medium |
