@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0380-insert-delete-getrandom-o1](https://github.com/aditya00801/leetcode-Problem/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0460-lfu-cache](https://github.com/aditya00801/leetcode-Problem/tree/main/0460-lfu-cache/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/aditya00801/leetcode-Problem/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [1015-smallest-integer-divisible-by-k](https://github.com/aditya00801/leetcode-Problem/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/aditya00801/leetcode-Problem/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2488-count-subarrays-with-median-k](https://github.com/aditya00801/leetcode-Problem/tree/main/2488-count-subarrays-with-median-k/) | Hard |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/aditya00801/leetcode-Problem/tree/main/2791-count-paths-that-can-form-a-palindrome-in-a-tree/) | Hard |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0009-palindrome-number](https://github.com/aditya00801/leetcode-Problem/tree/main/0009-palindrome-number/) | Easy |
 | [0263-ugly-number](https://github.com/aditya00801/leetcode-Problem/tree/main/0263-ugly-number/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/aditya00801/leetcode-Problem/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [1015-smallest-integer-divisible-by-k](https://github.com/aditya00801/leetcode-Problem/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1872-stone-game-viii](https://github.com/aditya00801/leetcode-Problem/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/aditya00801/leetcode-Problem/tree/main/1927-sum-game/) | Medium |
 | [1998-gcd-sort-of-an-array](https://github.com/aditya00801/leetcode-Problem/tree/main/1998-gcd-sort-of-an-array/) | Hard |
@@ -443,4 +445,8 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1998-gcd-sort-of-an-array](https://github.com/aditya00801/leetcode-Problem/tree/main/1998-gcd-sort-of-an-array/) | Hard |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1015-smallest-integer-divisible-by-k](https://github.com/aditya00801/leetcode-Problem/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 <!---LeetCode Topics End-->
