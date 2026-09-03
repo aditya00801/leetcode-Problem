@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3718-smallest-missing-multiple-of-k](https://github.com/aditya00801/leetcode-Problem/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aditya00801/leetcode-Problem/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/aditya00801/leetcode-Problem/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
+| [3876-construct-uniform-parity-array-ii](https://github.com/aditya00801/leetcode-Problem/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1998-gcd-sort-of-an-array](https://github.com/aditya00801/leetcode-Problem/tree/main/1998-gcd-sort-of-an-array/) | Hard |
 | [2029-stone-game-ix](https://github.com/aditya00801/leetcode-Problem/tree/main/2029-stone-game-ix/) | Medium |
 | [2485-find-the-pivot-integer](https://github.com/aditya00801/leetcode-Problem/tree/main/2485-find-the-pivot-integer/) | Easy |
+| [3876-construct-uniform-parity-array-ii](https://github.com/aditya00801/leetcode-Problem/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
