@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/aditya00801/leetcode-Problem/tree/main/0022-generate-parentheses/) | Medium |
 | [0051-n-queens](https://github.com/aditya00801/leetcode-Problem/tree/master/0051-n-queens) |
+| [0301-remove-invalid-parentheses](https://github.com/aditya00801/leetcode-Problem/tree/main/0301-remove-invalid-parentheses/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0022-generate-parentheses](https://github.com/aditya00801/leetcode-Problem/tree/main/0022-generate-parentheses/) | Medium |
 | [0127-word-ladder](https://github.com/aditya00801/leetcode-Problem/tree/main/0127-word-ladder/) | Hard |
 | [0242-valid-anagram](https://github.com/aditya00801/leetcode-Problem/tree/main/0242-valid-anagram/) | Easy |
+| [0301-remove-invalid-parentheses](https://github.com/aditya00801/leetcode-Problem/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0761-special-binary-string](https://github.com/aditya00801/leetcode-Problem/tree/main/0761-special-binary-string/) | Hard |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/aditya00801/leetcode-Problem/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/aditya00801/leetcode-Problem/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0127-word-ladder](https://github.com/aditya00801/leetcode-Problem/tree/main/0127-word-ladder/) | Hard |
 | [0207-course-schedule](https://github.com/aditya00801/leetcode-Problem/tree/main/0207-course-schedule/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/aditya00801/leetcode-Problem/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aditya00801/leetcode-Problem/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/aditya00801/leetcode-Problem/tree/main/2858-minimum-edge-reversals-so-every-node-is-reachable/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/aditya00801/leetcode-Problem/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
