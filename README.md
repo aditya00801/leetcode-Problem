@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/aditya00801/leetcode-Problem/tree/main/0242-valid-anagram/) | Easy |
 | [0301-remove-invalid-parentheses](https://github.com/aditya00801/leetcode-Problem/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0761-special-binary-string](https://github.com/aditya00801/leetcode-Problem/tree/main/0761-special-binary-string/) | Hard |
+| [1021-remove-outermost-parentheses](https://github.com/aditya00801/leetcode-Problem/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/aditya00801/leetcode-Problem/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/aditya00801/leetcode-Problem/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/aditya00801/leetcode-Problem/tree/master/1768-merge-strings-alternately) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/aditya00801/leetcode-Problem/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/aditya00801/leetcode-Problem/tree/main/0022-generate-parentheses/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/aditya00801/leetcode-Problem/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0020-valid-parentheses](https://github.com/aditya00801/leetcode-Problem/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/aditya00801/leetcode-Problem/tree/main/0042-trapping-rain-water/) | Hard |
 | [0085-maximal-rectangle](https://github.com/aditya00801/leetcode-Problem/tree/main/0085-maximal-rectangle/) | Hard |
+| [1021-remove-outermost-parentheses](https://github.com/aditya00801/leetcode-Problem/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/aditya00801/leetcode-Problem/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/aditya00801/leetcode-Problem/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/aditya00801/leetcode-Problem/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
