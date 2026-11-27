@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3903-smallest-stable-index-i](https://github.com/aditya00801/leetcode-Problem/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/aditya00801/leetcode-Problem/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [3934-smallest-unique-subarray](https://github.com/aditya00801/leetcode-Problem/tree/master/3934-smallest-unique-subarray) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/aditya00801/leetcode-Problem/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/aditya00801/leetcode-Problem/tree/main/2858-minimum-edge-reversals-so-every-node-is-reachable/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/aditya00801/leetcode-Problem/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/aditya00801/leetcode-Problem/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/aditya00801/leetcode-Problem/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aditya00801/leetcode-Problem/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/aditya00801/leetcode-Problem/tree/main/2571-minimum-operations-to-reduce-an-integer-to-0/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/aditya00801/leetcode-Problem/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/aditya00801/leetcode-Problem/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Sorting
 |  |
 | ------- |
